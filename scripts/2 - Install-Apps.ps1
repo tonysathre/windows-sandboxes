@@ -1,0 +1,1 @@
+winget install Microsoft.Powershell --accept-package-agreements --silent --accept-source-agreements --disable-interactivity
