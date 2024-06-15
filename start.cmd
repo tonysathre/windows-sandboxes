@@ -1,1 +1,1 @@
-pwsh -Command "Start-WindowsSandbox -Configuration 'C:\Users\Tony\git\windows-sandboxes\base.wsb'"
+pwsh -Command "Start-WindowsSandbox -Configuration '%~dp0\base.wsb'"
