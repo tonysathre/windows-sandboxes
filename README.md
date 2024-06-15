@@ -1,0 +1,3 @@
+### Usage
+
+Install-Module WindowsSandboxTools
